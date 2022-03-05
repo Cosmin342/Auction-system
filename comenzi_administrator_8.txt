@@ -1,0 +1,8 @@
+autentificare Ionut
+adaugaprodus tablou 22 1960 1000 ulei Da Vinci| Mona Lisa
+adaugaprodus bijuterie 19 2018 200 argint da Colier
+adaugaprodus mobila 201 2020 149 mobilier stejar Comoda
+delogare
+autentificare Marian
+delogare
+inchidere

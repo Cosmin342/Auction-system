@@ -1,0 +1,6 @@
+Persoana Fizica|Ilie|Strada 1 decembrie, nr 120|12/09/1992|900
+Persoana Juridica|Maria|Strada 9 mai, nr 100|2000|SRL|7000
+Persoana Fizica|Ionel|Strada N.Titulescu, nr 20|14/03/2000|1000
+Persoana Juridica|Popescu|Strada Primaverii, nr 11|4000|SA|6000
+Persoana Fizica|Laura|Strada N.Balcescu, nr 13|20/04/2002|1400
+Persoana Juridica|Valentin|Strada Berna, nr 24|2500|SRL|7000

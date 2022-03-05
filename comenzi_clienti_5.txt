@@ -1,0 +1,35 @@
+autentificare Maria
+afiseazaproduse
+liciteazapentru "Camp de Lalele" 380
+liciteazapentru "Rondul de noapte" 650
+liciteazapentru "Capela Sixtina din Vatican" 1050
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Camp de Lalele" 343
+liciteazapentru "Rondul de noapte" 657
+delogare
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Camp de Lalele" 340
+liciteazapentru "Rondul de noapte" 450
+delogare
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Capela Sixtina din Vatican" 1050
+liciteazapentru "Masa artizanala" 130
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Masa artizanala" 130
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Capela Sixtina din Vatican" 1060
+liciteazapentru "Masa artizanala" 130
+delogare
+autentificare Maria
+liciteazapentru "Masa artizanala" 130
+liciteazapentru "Capela Sixtina din Vatican" 1050
+delogare
+inchidere

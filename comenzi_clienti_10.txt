@@ -1,0 +1,27 @@
+inregistrare Dorian Persoana Fizica Strada Fagaras, nr 41| 23/09/1999 6000
+autentificare Dorian
+afiseazaproduse
+liciteazapentru "Pandantiv" 480
+liciteazapentru "Scaun pliabil" 370
+liciteazapentru "Inel cu diamant" 650
+liciteazapentru "Iazul cu nuferi" 2500
+delogare
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Pandantiv" 480
+liciteazapentru "Scaun pliabil" 370
+liciteazapentru "Biblioteca PAL" 400
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Scaun pliabil" 380
+liciteazapentru "Biblioteca PAL" 420
+liciteazapentru "Iazul cu nuferi" 2500
+delogare
+autentificare Maria
+afiseazaproduse
+liciteazapentru "Pandantiv" 482
+liciteazapentru "Biblioteca PAL" 432
+liciteazapentru "Iazul cu nuferi" 2500
+delogare
+inchidere

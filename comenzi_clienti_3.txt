@@ -1,0 +1,41 @@
+inregistrare Liliana Persoana Juridica Strada 1 mai, nr 51| 8000 SRL 23000
+inregistrare Dorian Persoana Fizica Strada Fagaras, nr 41| 23/09/1999 3000
+autentificare Dorian
+afiseazaproduse
+liciteazapentru "Iazul" 842
+liciteazapentru "Iazul cu nuferi" 842
+liciteazapentru "Noptiera mexicana" 500
+liciteazapentru "Maci la Argenteuil" 2100
+liciteazapentru "Pandantiv" 500
+delogare
+autentificare Liliana
+afiseazaproduse
+liciteazapentru "Iazul cu nuferi" 870.55
+liciteazapentru "Noptiera mexicana" 500
+liciteazapentru "Pandantiv" 520
+delogare
+autentificare Ilie
+liciteazapentru "Noptiera mexicana" 501.90
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Noptiera mexicana" 501.65
+liciteazapentru "Pandantiv" 492.55
+delogare
+autentificare Valentin
+liciteazapentru "Pandantiv" 530
+liciteazapentru "Iazul cu nuferi" 850
+liciteazapentru "Birou din pin masiv" 630
+delogare
+autentificare Laura
+afiseazaproduse
+liciteazapentru "Birou din pin masiv" 630
+liciteazapentru "Iazul cu nuferi" 800
+delogare
+autentificare Maria
+liciteazapentru "Birou din pin masiv" 630
+delogare
+autentificare Popescu
+liciteazapentru "Birou din pin masiv" 630
+delogare
+inchidere

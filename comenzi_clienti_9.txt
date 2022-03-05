@@ -1,0 +1,25 @@
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Noptiera mexicana" 500
+liciteazapentru "Mona Lisa" 900
+liciteazapentru "Inel cu diamant" 650
+liciteazapentru "Maci la Argenteuil" 2500
+liciteazapentru "Parcul Monceau" 800
+delogare
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Noptiera mexicana" 500
+liciteazapentru "Mona Lisa" 900
+liciteazapentru "Inel cu diamant" 600
+liciteazapentru "Maci la Argenteuil" 2500
+liciteazapentru "Parcul Monceau" 800
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Noptiera mexicana" 500
+liciteazapentru "Mona Lisa" 900
+liciteazapentru "Inel cu diamant" 650
+liciteazapentru "Maci la Argenteuil" 2500
+liciteazapentru "Parcul Monceau" 800
+delogare
+inchidere

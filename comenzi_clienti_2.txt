@@ -1,0 +1,33 @@
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Bujori in vaza de cupru" 1000
+liciteazapentru "Scaun" 400
+liciteazapentru "Bratara" 246
+liciteazapentru "Birou din pin" 400
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Bujori in vaza de cupru" 1300
+liciteazapentru "Scaun" 496
+liciteazapentru "Bratara" 230
+delogare
+autentificare Laura
+liciteazapentru "Scaun" 500
+liciteazapentru "Bratara" 250
+liciteazapentru "Bujori in vaza de cupru" 1400
+delogare
+inregistrare Andrei Persoana Juridica Strada Lugoj, nr 50| 5000 SRL 20000
+autentificare Andrei
+afiseazaproduse
+liciteazapentru "Bujori in vaza de cupru" 1600
+liciteazapentru "Masa de cafea" 1000
+delogare
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Bujori in vaza de cupru" 1400
+liciteazapentru "Masa de cafea" 1100
+delogare
+autentificare Popescu
+liciteazapentru "Masa de cafea" 1100
+delogare
+inchidere

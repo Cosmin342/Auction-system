@@ -1,0 +1,28 @@
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Rondul de noapte" 700
+liciteazapentru "Parcul Monceau" 760
+liciteazapentru "Lant de argint" 460
+delogare
+autentificare Laura
+afiseazaproduse
+liciteazapentru "Rondul de noapte" 800
+liciteazapentru "Parcul Monceau" 750
+liciteazapentru "Lant de argint" 460
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Rondul de noapte" 800
+liciteazapentru "Parcul Monceau" 760
+liciteazapentru "Lant de argint" 460
+liciteazapentru "Maci la Argenteuil" 2401
+delogare
+autentificare Maria
+afiseazaproduse
+liciteazapentru "Maci la Argenteuil" 2402
+delogare
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Maci la Argenteuil" 2403
+delogare
+inchidere

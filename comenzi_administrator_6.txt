@@ -1,0 +1,7 @@
+autentificare Ionut
+adaugaprodus bijuterie 488 2020 450 argint nu Lant de argint
+delogare
+autentificare Marian
+adaugaprodus bijuterie 20 2008 600 argint da Colier
+delogare
+inchidere

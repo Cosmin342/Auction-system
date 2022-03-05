@@ -1,0 +1,5 @@
+autentificare Marian
+adaugaprodus tablou 9 2006 772.99 acrilic Rembrandt van Rijn| Dutch
+adaugaprodus tablou 6 2007 831.96 tempera Claude Monet| Iazul cu nuferi
+delogare
+inchidere

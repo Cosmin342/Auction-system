@@ -1,0 +1,7 @@
+autentificare Ionut
+adaugaprodus tablou 22 1999 800 ulei Leonardo Da Vinci| Mona Lisa
+delogare
+autentificare Marian
+adaugaprodus bijuterie 99 2020 520 aur da Inel cu diamant
+delogare
+inchidere

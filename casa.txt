@@ -1,0 +1,24 @@
+Administrator|12|Marian
+Broker|15|Gheorge
+Broker|24|Andrei
+Produse
+Tablou|37|Noapte instelata|1980|700|Vincent Van Gogh|ulei
+Bijuterie|932|Inel|2018|130|aur|nu
+Tablou|90|Peisaj cu turma de oi|1990|900|Nicolae Grigorescu|tempera
+Mobila|23|Masa artizanala|2014|120|masa|mahon
+Tablou|32|Capela Sixtina din Vatican|1992|1040.50|Michelangelo|acrilic
+Tablou|158|Crini de apa|2008|820.73|Claude Monet|ulei
+Bijuterie|245|Bratara|2020|245.32|argint|da
+Tablou|172|Rondul de noapte|2009|632|Rembrandt|acrilic
+Bijuterie|260|Lant de aur|2010|345.32|aur|nu
+Mobila|10|Biblioteca PAL|2019|340|biblioteca|pin
+Mobila|341|Noptiera mexicana|2017|489.99|noptiera|stejar
+Mobila|97|Masa de cafea|2007|753.29|masa|pin
+Tablou|119|Parcul Monceau|2016|754.83|Claude Monet|tempera
+Tablou|452|Bujori in vaza de cupru|1998|1432|Vincent van Gogh|acrilic
+Bijuterie|76|Pandantiv|2017|487|aur|da
+Bijuterie|81|Brosa|2018|301|argint|nu
+Tablou|555|Maci la Argenteuil|2003|2400|Claude Monet|ulei
+Mobila|877|Scaun|2021|491.39|scaun|ulm
+Mobila|833|Scaun pliabil|2020|369.11|scaun|metal
+Mobila|192|Birou din pin masiv|2011|632|birou|pin

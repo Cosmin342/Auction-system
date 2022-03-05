@@ -1,0 +1,22 @@
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Lant de bronz" 250
+liciteazapentru "Biblioteca PAL" 340.10
+liciteazapentru "Brosa" 302
+liciteazapentru "Scaun pliabil" 370
+delogare
+autentificare Laura
+afiseazaproduse
+liciteazapentru "Lant de bronz" 250
+liciteazapentru "Biblioteca PAL" 340.10
+liciteazapentru "Brosa" 302
+liciteazapentru "Scaun pliabil" 370
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Lant de bronz" 250
+liciteazapentru "Biblioteca PAL" 340.10
+liciteazapentru "Brosa" 302
+liciteazapentru "Scaun pliabil" 370
+delogare
+inchidere

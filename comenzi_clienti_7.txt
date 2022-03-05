@@ -1,0 +1,30 @@
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Dulap" 900
+liciteazapentru "Comoda TV" 500
+liciteazapentru "Birou din pin masiv" 650
+liciteazapentru "Bujori in vaza de cupru" 1500
+delogare
+autentificare Maria
+afiseazaproduse
+liciteazapentru "Dulap" 820
+liciteazapentru "Birou din pin masiv" 600
+delogare
+autentificare Laura
+afiseazaproduse
+liciteazapentru "Dulap" 820
+liciteazapentru "Bujori in vaza de cupru" 1503
+delogare
+autentificare Ilie
+liciteazapentru "Birou din pin masiv" 620
+liciteazapentru "Comoda TV" 503
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Comoda TV" 503.10
+liciteazapentru "Scaun" 492
+delogare
+autentificare Ionel
+liciteazapentru "Bujori in vaza de cupru" 1503.14
+delogare
+inchidere

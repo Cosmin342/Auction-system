@@ -1,0 +1,27 @@
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Noapte instelata" 800
+liciteazapentru "Mona Lisa" 1000
+liciteazapentru "Lant de aur" 350
+liciteazapentru "Bujori in vaza de cupru" 1500
+delogare
+inregistrare Luiza Persoana Juridica Strada Libertatii, nr 20| 4000 SRL 20000
+autentificare Luiza
+afiseazaproduse
+liciteazapentru "Lant de aur" 355
+liciteazapentru "Bujori in vaza de cupru" 1510
+delogare
+autentificare Mara
+autentificare Maria
+afiseazaproduse
+liciteazapentru "Noapte instelata" 830
+liciteazapentru "Mona Lisa" 1200
+delogare
+autentificare Ionel
+afiseazaproduse
+liciteazapentru "Noapte instelata" 820
+liciteazapentru "Mona Lisa" 1030
+liciteazapentru "Lant de aur" 350
+liciteazapentru "Bujori in vaza de cupru" 1500
+delogare
+inchidere

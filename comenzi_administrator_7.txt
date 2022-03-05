@@ -1,0 +1,8 @@
+autentificare Ionut
+adaugaprodus bijuterie 488 2020 450 argint nu Lant de argint
+adaugaprodus mobila 342 2010 800.92 dulap pin Dulap
+delogare
+autentificare Marian
+adaugaprodus mobila 919 2015 451 comoda stejar Comoda TV
+delogare
+inchidere

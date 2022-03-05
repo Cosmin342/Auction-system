@@ -1,0 +1,36 @@
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Noapte instelata" 400
+liciteazapentru "Masa artizanala" 150
+delogare
+autentificare Popescu
+afiseazaproduse
+liciteazapentru "Noapte instelata" 500
+delogare
+autentificare Ionel
+liciteazapentru "Noapte instelata" 440
+liciteazapentru "Masa artizanala" 110
+delogare
+autentificare Valentin
+afiseazaproduse
+liciteazapentru "Masa artizanala" 170
+delogare
+autentificare Ilie
+afiseazaproduse
+liciteazapentru "Inel" 100
+liciteazapentru "Mona Lisa" 390
+liciteazapentru "Peisaj cu turma de oi" 600
+delogare
+autentificare Maria
+liciteazapentru "Inel" 140
+liciteazapentru "Peisaj cu turma de oi" 900
+delogare
+inregistrare Cornel Persoana Fizica Strada Lugoj, nr 50| 17/05/1996 1320
+autentificare Cornel
+liciteazapentru "Inel" 125.22
+liciteazapentru "Peisaj cu turma de oi" 910.15
+delogare
+autentificare Laura
+liciteazapentru "Peisaj cu turma de oi" 900
+delogare
+inchidere

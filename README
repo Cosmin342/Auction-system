@@ -1,0 +1,80 @@
+Radu Cosmin
+323 CB
+
+Proiect POO - Sistem de licitatii online
+
+Pentru rulare se vor introduce in consola numele fisierelor dintr-un fisier
+testX.txt, unde X este nr testului. Se vor incarca 4 fisiere: unul ce contine
+angajatii si produsele casei de licitatii, unul ce contine clientii si alte
+doua ce contin comenzi date de administratori, respectiv clienti.
+
+Pentru implementare multithreading-ului am creat doua clase ce implementeaza
+Runnable, ClientiThread si CasaThread, unde se incarca in paralel datele
+despre casa de licitatii si despre clienti din fisierele date la intrare.
+In plus, un thread executa comenzi date de administrator si unul comenzi date
+de client, incarcate din anumite fisiere.
+
+Am implementat urmatoarele design pattern-uri:
+- builder, utilizat la constructia tabloului, a mobilei sau a bijuteriei (prin
+creearea a 3 clase de Builder) deoarece acestea pot avea mai multe reprezentari
+(in unele se pot seta unele variabile membru, alteori nu);
+- singleton, in cazul casei de licitatii, deoarece aceasta trebuia sa fie
+unica, ea putand fi accesibila mai multor entitati, clienti, brokeri sau
+administratori;
+- factory, in cazul citirii produselor din fisier, deoarece nu se stie exact
+ce fel de produs va fi construit;
+- observer, atasat la broker, deoarece brokerii trebuie sa notifice clientii
+cu privire la inceperea unei licitatii sau legat de suma maxima oferita la un
+pas;
+
+Pentru genericitate am utilizat ArrayList-uri in loc de vectori simpli si am
+mai creat o metoda generica in clasa Prezentator pentru afisarea elementelor
+dintr-un ArrayList, utilizand-o pentru afisarea produselor.
+
+Am folosit conceptele POO astfel:
+- incapsularea: am separat clasele din proiect in 3 pachete (Casa, Persoana,
+Licitatii) pentru ca unele metode sa nu poata fi accesate de clienti precum
+cele de adaugare sau stergerea a unui produs;
+- abstractizare: am creeat clasele abstracte Angajat si Produs, care sunt
+mostenite de alte clase care vor fi folosite ulterior. In plus, am creat
+interfata PrelucratorLicitatii ce contine metodele pornestelicitatia si
+cautaSiInscrieLaLicitatie deoarece acestea pot avea implementari diferite;
+- mostenire: am folosit mostenirea in cazul tipurilor de produse care mostenesc
+Produs si in cazul tipurilor de angajati;
+- polimorfism: spre exemplu, in clasa ProcesorDate in metoda creeazaProdus,
+metoda returneaza un produs, insa acel produs poate fi de tip Tablou, Mobila
+sau Bijuterie. In casa de licitatii se pot adauga produse create de aceasta
+metoda, aceasta continand un ArrayList de produse. In plus, polimorfismul
+mai poate fi vazut tot in ProcesorDate unde exista metode cu acelasi nume,
+care intorc acelasi tip de obiect, dar primesc parametri diferiti, precum:
+creeazaMobila.
+
+Pentru a face procesul de licitare putin mai realist, am adaugat in Client
+variabila sold care reprezinta suma detinuta de un anumit Client, el putand
+licita pentru un numar limitat de produse.
+
+Clientii vor fi la inceput retinuti intr-un arraylist, ei fiind adaugati in
+arraylist-ul casei de licitatii pe masura ce se inscriu la o licitatie.
+
+O licitatie va porni in momentul in care s-au inscris la aceasta jumatate
+dintre clientii cititi din fisier.
+
+Daca suma garantata de client va fi mai mare decat soldul ramas clientului,
+acesta nu va putea participa la licitatie.
+
+Casa de licitatii va porni licitatia prin metoda pornesteLicitatia. Brokerii
+vor notifica clientii prin intermediul observatorilor, iar apoi incepe
+licitatia propriu zisa. Pentru n pasi, clientii vor oferi diverse sume astfel:
+suma oferita de un client va fi pretul minim (maximul de la pasul anterior), la
+inceput fiind 0 + un procent random din diferenta dintre maximul garantat de
+client si pretul minim. Daca pretul minim devine mai mare decat maximul
+garantat de client, clientul nu va mai oferi nimic. Daca nu se atinge pretul,
+produsul ramane nevandut.
+
+Chiar daca produsul este vandut sau nu, la finalul unei licitatii se vor
+elimina maximele garantate de clienti, cat si licitatia in sine. Brokerii
+vor avea inca asociati clientii de la acea licitatie in eventualitatea
+participarii clientilor la o alta licitatie.
+
+Daca este vandut, produsul va fi sters din casa de licitatii de catre broker-ul
+care are asociat clientul castigator.
